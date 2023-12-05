@@ -8,7 +8,6 @@
   "status": "success",
   "data": {
     "product": {
-      "id": "product-IKqPltKAqIRWSNPw",
       "name": "Sambal Baby Cumi",
       "image": [
         "https://i.ibb.co/DV6D5rz/Screenshot-2023-12-03-214828.png"
@@ -148,10 +147,9 @@
         "employe": '...'
       },
       "category": 1,
-      "createdAt": "2023-11-22T06:58:51.120Z",
-      "updatedAt": "2023-11-22T06:58:51.120Z"
     }
   }
 }
 ```
+
 ## umkm
