@@ -4,8 +4,6 @@
 1. Sambel baby cumi
 ```json
 {
-  "error": false,
-  "status": "success",
   "data": {
     "product": {
       "name": "Sambal Baby Cumi",
@@ -151,7 +149,67 @@
   }
 }
 ```
-2. 
+2. Greenbean Coffe
+```json
+{
+  "data": {
+    "product": {
+      "name": "Greenbean Coffe",
+      "image": [
+        "https://drive.google.com/open?id=1mCbKdwvUu9lZV-uC18Ak9_oAACyy18YH"
+      ],
+      "price": 80000,
+      "description": "Cerry kopi yang sudah mengalami proses pasca panen dan siap panggang (roasting).",
+      "resources": [
+        {
+          "name": "Cerry kopi",
+          "image": "https://drive.google.com/open?id=1x3urVurEOjXXe3AsJUT3clll5bkE3FrI",
+          "location": {
+            "lat": "",
+            "lng": "",
+            "name": "Malang",
+          },
+          "deskripsi": "Bahan baku utama kopi."
+        }
+      ],
+"production": [
+        {
+          "name": "Pemetikan merah",
+          "image": "https://drive.google.com/open?id=1VJr_rTF-HsHCHgQEFhbI11k62hxEh3xo",
+          "deskripsi": "..."
+        },
+        {
+          "name": "penyortiran",
+          "image": "https://drive.google.com/open?id=1r7VH_y-qWqb0T6gxMtBQQIMXYF7ZAgZ7",
+          "deskripsi": "..."
+        },
+        {
+          "name": "penjemuran",
+          "image": "https://drive.google.com/open?id=1-ZMZuece9Vyq-3N3sAkeyIRSwG0FjP00",
+          "deskripsi": ".."
+        },
+	{
+          "name": "pengupasan kulit",
+          "image": "https://drive.google.com/open?id=1AcX4PByvw84lI97dvZIzjkDtGDlXJI-j",
+          "deskripsi": ".."
+        }
+],
+      "umkm": {
+        "id": "",
+        "logo": "",
+        "name": "",
+        "location": {
+          "lat": "",
+          "lng": "",
+          "name": ""
+        },
+        "employe": '...'
+      },
+      "category": 2,
+    }
+  }
+}
+```
 ## umkm
 1. Sambal Mamo
 ``` json
