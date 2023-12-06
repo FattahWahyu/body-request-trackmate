@@ -366,7 +366,7 @@
 "description": "lorem100",
 "location": "Jl. Ngurah Rai,  Buleleng, Bali",
 "history": {
- 		"image": "[http://a.jpg](https://i.ibb.co/0fr1VCg/image.jpg)",
+ 		"image": "https://i.ibb.co/0fr1VCg/image.jpg",
      	 	"text": ""
 },
       "impact": [
@@ -418,4 +418,67 @@
 ]
 }
 ```
-2. UMKM Name
+2. Putra Alfaro Sejahtera
+``` json
+{
+      "image": "",
+      "name": "Putra Alfaro Sejahtera",
+"description": "Putra Alfaro Sejahtera/PTPAS merupakan umkm yang ada di Kabupaten Musi Banyuasin yang telah memiliki legalitas usaha. Saat ini PTPAS fokus pada pengolahan limbah sawit dengan produk hilirisasi berupa produk energi baru terbarukan yang ramah lingkungangan, yaitu ZAKET (zafa kian briket) yang memiliki dua jenis produk briket dan biopellet.",
+"location": "Jalan Beringin Kelurahan Serasan Jaya Kecamatan Sekayu Kabupaten Musi Banyuasin Sumatera Selatan 30711",
+"history": {
+ 		"image": "https://i.ibb.co/0fr1VCg/image.jpg",
+     	 	"text": ""
+},
+      "impact": [
+        {
+          "name": "",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": ""
+        },
+        {
+          "name": "",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": ""
+        },
+        {
+          "name": "",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": ""
+        },
+        {
+          "name": "",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": ""
+        },
+        {
+          "name": "",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": ""
+        },
+        {
+          "name": "",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": ""
+        },
+        {
+          "name": "",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": ""
+        }
+      ],
+	"contact" : [
+	  {
+    "name": "whatsapp",
+          "deskripsi": "081273089932"
+        },
+        {
+    "name": "email",
+          "deskripsi": "ptpaszaket@gmail.com"
+  },
+{
+    "name": "web",
+          "deskripsi": "http://ptpas-zaket.my.id"
+  }
+]
+}
+```
