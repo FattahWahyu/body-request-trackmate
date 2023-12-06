@@ -210,6 +210,153 @@
   }
 }
 ```
+3. MORINGA TEA
+```json
+{
+  "data": {
+    "product": {
+      "name": "MORINGA TEA",
+      "image": [
+        "https://drive.google.com/open?id=18osvUd5nE_Uu21d6c3aqi7ccPbT6dxOQ"
+      ],
+      "price": 40000,
+      "description": "Produk berbahan dasar daun kelor yang bentuk kemasan teabag tinggal seduh.",
+      "resources": [
+        {
+          "name": "Daun kelor",
+          "image": "https://drive.google.com/open?id=1pp9l5SMOIIylJe_VzonOIKjTX6950l-y",
+          "location": {
+            "lat": "",
+            "lng": "",
+            "name": "Kelompok Tani Inerie",
+          },
+          "deskripsi": "Daun kelor memiliki banayak manfaat diantara kadungan dalam daun kelor mampu menekan darah tinggi/hipertensi, anemia dan kanker, kelor juga bermanfat untuk balita yang stunting."
+        }
+      ],
+"production": [
+        {
+          "name": "Penerimaan bahan baku",
+          "image": "https://drive.google.com/open?id=1QydDXYKkeRUNQMCl_Mm1e-j36COl_aWL",
+          "deskripsi": "..."
+        },
+        {
+          "name": "penyortiran",
+          "image": "https://drive.google.com/open?id=1NQjSfaRz9drpFNlHgrW2GTLQ2LWHkQzG",
+          "deskripsi": "..."
+        },
+        {
+          "name": "packing",
+          "image": "https://drive.google.com/open?id=1zGdJg9k5NuAN2isL2tFbFai2Y5FLMJ7-",
+          "deskripsi": ".."
+        }
+],
+      "umkm": {
+        "id": "",
+        "logo": "",
+        "name": "",
+        "location": {
+          "lat": "",
+          "lng": "",
+          "name": ""
+        },
+        "employe": '...'
+      },
+      "category": 3,
+    }
+  }
+}
+```
+4. TEMPEKITA TEMPE SEGAR
+```json
+{
+  "data": {
+    "product": {
+      "name": "TEMPEKITA TEMPE SEGAR",
+      "image": [
+        "https://drive.google.com/open?id=1fv6EFhTNGeAuZgMapiOODILB3um7LgOX"
+      ],
+      "price": 17000,
+      "description": "Tempe segar adalah produk yang berasal dari kacang kedelai yang difermentasi menggunakan ragi tempe.",
+      "resources": [
+        {
+          "name": "Kacang Kedelai",
+          "image": "https://drive.google.com/open?id=12LStezcGVdKXP_rJYqfeMwQlWulCr22c",
+          "location": {
+            "lat": "",
+            "lng": "",
+            "name": "Amerika, Kanada, dan Lokal",
+          },
+          "deskripsi": ""
+        },
+	{
+          "name": "Ragi Tempe",
+          "image": "https://drive.google.com/open?id=1IEQupGQWr2_Lx1D45V4BO9jbKTG2Nq-6",
+          "location": {
+            "lat": "",
+            "lng": "",
+            "name": "Merk Raprima",
+          },
+          "deskripsi": ""
+        },
+	{
+          "name": "Air",
+          "image": "",
+          "location": {
+            "lat": "",
+            "lng": "",
+            "name": "berasal dari Air Sumur",
+          },
+          "deskripsi": ""
+        }
+      ],
+"production": [
+        {
+          "name": "Sortasi",
+          "image": "https://drive.google.com/open?id=1RLkhXmv7MtKo-OwU1LzcaYJ3592Xv2Ux",
+          "deskripsi": "..."
+        },
+        {
+          "name": "Pencucian",
+          "image": "https://drive.google.com/open?id=1OaUTe_Fnp1VYoeOwgVC0ONw7e8DFg-Cu",
+          "deskripsi": "..."
+        },
+        {
+          "name": "Perebusan",
+          "image": "https://drive.google.com/open?id=1UamU34g6K9DR0qYYDooY3ZJVzxrDRFCT",
+          "deskripsi": ".."
+        },
+	{
+          "name": "Perendaman",
+          "image": "",
+          "deskripsi": ".."
+        },
+	{
+          "name": "Peragian",
+          "image": "",
+          "deskripsi": ".."
+        },
+	{
+          "name": "Pengemasan",
+          "image": "",
+          "deskripsi": ".."
+        }
+],
+      "umkm": {
+        "id": "",
+        "logo": "",
+        "name": "",
+        "location": {
+          "lat": "",
+          "lng": "",
+          "name": ""
+        },
+        "employe": '...'
+      },
+      "category": 1,
+    }
+  }
+}
+```
 ## umkm
 1. Sambal Mamo
 ``` json
