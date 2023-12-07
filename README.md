@@ -11,7 +11,7 @@
         "https://i.ibb.co/DV6D5rz/Screenshot-2023-12-03-214828.png"
       ],
       "price": 35000,
-      "description": "Sambal yang terbuat dari baby cumi asin yang berasal dari daerah desa Gerokgak, kec. Gerokgak, Kab. Buleleng, beserta aneka cabai dan rempah-rempah bumbu segar tanpa pengawet yang diolah dengan cara dimasak, sehingga memiliki rasa yang pedas, gurih dan nikmat. Cocok jika dimakan bersama nasi panas. Bahan Dasar : baby cumi, bawang merah, bawang putih, cabai merah, garam, gula merah, minyak goreng kita.",
+      "description": "Sambal yang terbuat dari baby cumi asin yang berasal dari daerah desa Gerokgak, kec. Gerokgak, Kab. Buleleng, beserta aneka cabai dan rempah-rempah 	bumbu segar tanpa pengawet yang diolah dengan cara dimasak, sehingga memiliki rasa yang pedas, gurih dan nikmat. Cocok jika dimakan bersama nasi panas. Bahan Dasar 	: baby cumi, bawang merah, bawang putih, cabai merah, garam, gula merah, minyak goreng kita.",
       "resources": [
         {
           "name": "Cumi",
@@ -21,7 +21,7 @@
             "lng": 114.79727725464201,
             "name": "Desa gerokgak",
           },
-          "deskripsi": "Baby cumi kering berasal dari desa gerokgak kab. Buleleng yang terkenal dengan baby cumi kering kualitas baik, proses pengawetannya secara alamiah sehingga kualitasnya terjaga dengan baik."
+          "deskripsi": "Baby cumi kering berasal dari desa gerokgak kab. Buleleng yang terkenal dengan baby cumi kering kualitas baik, proses pengawetannya secara alamiah 	sehingga kualitasnya terjaga dengan baik."
         },
         {
           "name": "Cabai merah",
@@ -31,7 +31,7 @@
             "lng": 115.20642388864296,
             "name": "Desa Pakisan",
           },
-          "deskripsi": "Diperoleh langsung dari petani lokal Desa Pakisan, cabai wilayah tersebut dengan kualitas rasa pedas yang kuat, terlihat dari bentuk fisik yang lebih besar, warna merah yang lebih cerah,  warna kulit bersinar dan tidak mudah busuk."
+          "deskripsi": "Diperoleh langsung dari petani lokal Desa Pakisan, cabai wilayah tersebut dengan kualitas rasa pedas yang kuat, terlihat dari bentuk fisik yang 	lebih besar, warna merah yang lebih cerah,  warna kulit bersinar dan tidak mudah busuk."
         },
         {
           "name": "Bawang merah & bawang putih",
@@ -41,7 +41,7 @@
             "lng": 115.14505543863339,
             "name": "Desa bungkulan",
           },
-          "deskripsi": "Bawang merah dan bawang putih dibeli dari petani lokal di desa bungkulan kab. Buleleng dengan kualitas baik dikarenakan wilayah tersebut memiliki kualitas tanah yang baik, menjadikan kualitas hasil bawang merah dan bawang putih terjaga dengan baik."
+          "deskripsi": "Bawang merah dan bawang putih dibeli dari petani lokal di desa bungkulan kab. Buleleng dengan kualitas baik dikarenakan wilayah tersebut memiliki 	kualitas tanah yang baik, menjadikan kualitas hasil bawang merah dan bawang putih terjaga dengan baik."
         },
         {
           "name": "Gula merah",
@@ -51,7 +51,7 @@
             "lng": 115.04194724632835,
             "name": "Desa pedawa",
           },
-          "deskripsi": "Gula merah dari desa pedawa kab. Buleleng salah satu desa dengan produksi gula aren yang banyak karena desa tersebut memiliki perkebunan aren yang banyak dan tanpa pemanis buatan, yang dimasak dengan cara tradisional dengan waktu yang lama, sehingga rasa manis dari gula merah ."
+          "deskripsi": "Gula merah dari desa pedawa kab. Buleleng salah satu desa dengan produksi gula aren yang banyak karena desa tersebut memiliki perkebunan aren yang 	banyak dan tanpa pemanis buatan, yang dimasak dengan cara tradisional dengan waktu yang lama, sehingga rasa manis dari gula merah ."
         },
         {
           "name": "Garam",
@@ -61,7 +61,7 @@
             "lng": 115.35520049874509,
             "name": "Desa tejakula",
           },
-          "deskripsi": "Garam yang dipakai adalah garam organik asli petani lokal dari desa tejakula, Kab. Buleleng, dengan kualitas rasa yang khas & baik sebagai penguat rasa pada olahan sambal."
+          "deskripsi": "Garam yang dipakai adalah garam organik asli petani lokal dari desa tejakula, Kab. Buleleng, dengan kualitas rasa yang khas & baik sebagai penguat 	rasa pada olahan sambal."
         },
         {
           "name": "Minyak goreng",
@@ -172,7 +172,7 @@
           "deskripsi": "Bahan baku utama kopi."
         }
       ],
-"production": [
+	"production": [
         {
           "name": "Pemetikan merah",
           "image": "https://drive.google.com/open?id=1VJr_rTF-HsHCHgQEFhbI11k62hxEh3xo",
@@ -193,7 +193,65 @@
           "image": "https://drive.google.com/open?id=1AcX4PByvw84lI97dvZIzjkDtGDlXJI-j",
           "deskripsi": ".."
         }
-],
+	],
+	"impact": [
+        {
+          "name": "Carbon Footprint",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meminimalisir potensi jejak karbon baik secara individu/kelompok"
+        },
+	{
+          "name": "Energy Use",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Efisiensi penggunaan ragam tipe energi dan cara penghematan"
+        }
+        {
+          "name": "Waste Management",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Melakukan tracing dalam upaya pengurangan limbah sekitar lingkungan usaha"
+        },
+	{
+          "name": "Resources and Raw Material",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Melakukan peninjauan pada penggunaan sumberdaya dan bahan baku hingga konversi bahan dan bersifat renewable"
+        },
+        {
+          "name": "Water Use",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meniliki upaya efisiensi penggunaan air"
+        },
+        {
+          "name": "Product Lyfecycle",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Memiliki daur hidup produk agar membantu meminimalisir kerusakan lingkungan"
+        },
+        {
+          "name": "Health and Safety",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Mengukur kadar keamanan produk dalam penggunaan, keberlanjutan bahan baku dan pemanfaatan potensi daur ulang produk"
+        },
+        {
+          "name": "Working Condition",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Menilik iklim komunikasi dalam lingkup pekerjaan dan sosial yang berkaitan dengan kesejahteraan dan kenyamanan pekerja"
+        },
+        {
+          "name": "Human Right",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meninjau pemenuhan hak-hak pekerja dalam berbagai aspek dengan berlandaskan regulasi yang berlaku hingga dimungkinkan adanya standarisasi"
+        }
+      ],
+      "contribution": [
+        1,
+	2,
+        3,
+	4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
       "umkm": {
         "id": "",
         "logo": "",
@@ -230,10 +288,10 @@
             "lng": "",
             "name": "Kelompok Tani Inerie",
           },
-          "deskripsi": "Daun kelor memiliki banayak manfaat diantara kadungan dalam daun kelor mampu menekan darah tinggi/hipertensi, anemia dan kanker, kelor juga bermanfat untuk balita yang stunting."
+          "deskripsi": "Daun kelor memiliki banayak manfaat diantara kadungan dalam daun kelor mampu menekan darah tinggi/hipertensi, anemia dan kanker, kelor juga 		bermanfat untuk balita yang stunting."
         }
       ],
-"production": [
+	"production": [
         {
           "name": "Penerimaan bahan baku",
           "image": "https://drive.google.com/open?id=1QydDXYKkeRUNQMCl_Mm1e-j36COl_aWL",
@@ -249,7 +307,65 @@
           "image": "https://drive.google.com/open?id=1zGdJg9k5NuAN2isL2tFbFai2Y5FLMJ7-",
           "deskripsi": ".."
         }
-],
+	],
+	"impact": [
+        {
+          "name": "Carbon Footprint",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meminimalisir potensi jejak karbon baik secara individu/kelompok"
+        },
+	{
+          "name": "Energy Use",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Efisiensi penggunaan ragam tipe energi dan cara penghematan"
+        },
+        {
+          "name": "Waste Management",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Melakukan tracing dalam upaya pengurangan limbah sekitar lingkungan usaha"
+        },
+	{
+          "name": "Resource and Material Review",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Melakukan peninjauan pada penggunaan sumberdaya dan bahan baku hingga konversi bahan dan bersifat renewable"
+        },
+        {
+          "name": "Water Use",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meniliki upaya efisiensi penggunaan air"
+        },
+        {
+          "name": "Product Lyfecycle",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Memiliki daur hidup produk agar membantu meminimalisir kerusakan lingkungan"
+        },
+        {
+          "name": "Health and Safety",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Mengukur kadar keamanan produk dalam penggunaan, keberlanjutan bahan baku dan pemanfaatan potensi daur ulang produk"
+        },
+        {
+          "name": "Working Condition",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Menilik iklim komunikasi dalam lingkup pekerjaan dan sosial yang berkaitan dengan kesejahteraan dan kenyamanan pekerja"
+        },
+        {
+          "name": "Human Right",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meninjau pemenuhan hak-hak pekerja dalam berbagai aspek dengan berlandaskan regulasi yang berlaku hingga dimungkinkan adanya standarisasi"
+        }
+      ],
+      "contribution": [
+        1,
+	2,
+        3,
+	4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
       "umkm": {
         "id": "",
         "logo": "",
@@ -309,7 +425,7 @@
           "deskripsi": ""
         }
       ],
-"production": [
+	"production": [
         {
           "name": "Sortasi",
           "image": "https://drive.google.com/open?id=1RLkhXmv7MtKo-OwU1LzcaYJ3592Xv2Ux",
@@ -340,7 +456,47 @@
           "image": "",
           "deskripsi": ".."
         }
-],
+	],
+	"impact": [
+        {
+          "name": "Carbon Footprint",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meminimalisir potensi jejak karbon baik secara 		individu/kelompok"
+        },
+        {
+          "name": "Water Use",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meniliki upaya efisiensi penggunaan air"
+        },
+        {
+          "name": "Product Lyfecycle",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Memiliki daur hidup produk agar membantu meminimalisir kerusakan lingkungan"
+        },
+        {
+          "name": "Health and Safety",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Mengukur kadar keamanan produk dalam penggunaan, keberlanjutan bahan baku dan pemanfaatan potensi daur ulang produk"
+        },
+        {
+          "name": "Working Condition",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Menilik iklim komunikasi dalam lingkup pekerjaan dan sosial yang berkaitan dengan kesejahteraan dan kenyamanan pekerja"
+        },
+        {
+          "name": "Human Right",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meninjau pemenuhan hak-hak pekerja dalam berbagai aspek dengan berlandaskan regulasi yang berlaku hingga dimungkinkan adanya standarisasi"
+        }
+      ],
+      "contribution": [
+        1,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
       "umkm": {
         "id": "",
         "logo": "",
@@ -377,9 +533,9 @@
             "lng": "",
             "name": "Kabupaten Musi Banyuasin",
           },
-          "deskripsi": "Bahan baku limbah ini sangat berlimpah dan masih menjadi pernasalahan lingkungan yang serius saat ini sehingga kami memanfaatkannya menjadi produk olahan yang memiliki nilai ekonomi yang tinggi tanpa menghasilkan limbah (ramah lingkungan)"
+          "deskripsi": "Bahan baku limbah ini sangat berlimpah dan masih menjadi pernasalahan lingkungan yang serius saat ini sehingga kami memanfaatkannya menjadi produk 	olahan yang memiliki nilai ekonomi yang tinggi tanpa menghasilkan limbah (ramah lingkungan)"
         }
-"production": [
+	"production": [
         {
           "name": "Limbah sebagai bahan baku di ambil dari pabrik",
           "image": "https://drive.google.com/open?id=1cvMw6V73QS0C3woBEnjt1D5_SrSbHfji",
@@ -420,7 +576,65 @@
           "image": "https://drive.google.com/open?id=1s82JP6fOiKR1TTIAaJJ3X6EApRDnO4mc",
           "deskripsi": ".."
         }
-],
+	],
+	"impact": [
+        {
+          "name": "Carbon Footprint",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meminimalisir potensi jejak karbon baik secara individu/kelompok"
+        },
+	{
+          "name": "Energy Use",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Efisiensi penggunaan ragam tipe energi dan cara penghematan"
+        },
+        {
+          "name": "Waste Management",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Melakukan tracing dalam upaya pengurangan limbah sekitar lingkungan usaha"
+        },
+	{
+          "name": "Resources and Raw Material",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Melakukan peninjauan pada penggunaan sumberdaya dan bahan baku hingga konversi bahan dan bersifat renewable"
+        },
+        {
+          "name": "Water Use",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meniliki upaya efisiensi penggunaan air"
+        },
+        {
+          "name": "Product Lyfecycle",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Memiliki daur hidup produk agar membantu meminimalisir kerusakan lingkungan"
+        },
+        {
+          "name": "Health and Safety",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Mengukur kadar keamanan produk dalam penggunaan, keberlanjutan bahan baku dan pemanfaatan potensi daur ulang produk"
+        },
+        {
+          "name": "Working Condition",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Menilik iklim komunikasi dalam lingkup pekerjaan dan sosial yang berkaitan dengan kesejahteraan dan kenyamanan pekerja"
+        },
+        {
+          "name": "Human Right",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meninjau pemenuhan hak-hak pekerja dalam berbagai aspek dengan berlandaskan regulasi yang berlaku hingga dimungkinkan adanya standarisasi"
+        }
+      ],
+	"contribution": [
+        1,
+	2,
+	3,
+	4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
       "umkm": {
         "id": "",
         "logo": "",
@@ -447,7 +661,7 @@
         "https://drive.google.com/open?id=1Q3gMCe32iT2hBoabMJVLK7XJTDQqobUJ"
       ],
       "price": 135000,
-      "description": "Nasi tinggi serat, rendah karbohidrat , rendah kalori dan rendah gula (nasi sehat untuk pola hidup sehat, diet, penderita diabetes,jantung,lambung, sembelit, kanker dan autis)",
+      "description": "Nasi tinggi serat, rendah karbohidrat , rendah kalori dan rendah gula (nasi sehat untuk pola hidup sehat, diet, penderita diabetes,jantung,lambung, 	sembelit, kanker dan autis)",
       "resources": [
         {
           "name": "Beras",
@@ -457,7 +671,7 @@
             "lng": "",
             "name": "Penyelepan sekitar lokasi usaha, berasal dari petani sekitar Juwana dan Trangkil, Pati, Jawa Tengah",
           },
-          "deskripsi": "Memilih beras lokal ,selalu tersedia,lokasi dekat meminimalisir biaya,menghidupkan ekonomi sesama wirausaha, supplier menjamin beras sesuai dg yg spek diminta."
+          "deskripsi": "Memilih beras lokal ,selalu tersedia,lokasi dekat meminimalisir biaya,menghidupkan ekonomi sesama wirausaha, supplier menjamin beras sesuai dg yg 	spek diminta."
         },
 	{
           "name": "Tepung Glukomanan Porang",
@@ -467,16 +681,67 @@
             "lng": "",
             "name": "Supplier PT Sanindo Porang Berkah, Bandung, Jawa Barat",
           },
-          "deskripsi": "Glukomanan Porang yang disuplai sesuai dengan spek yang kami butuhkan, dari bahan asli porang tanpa campuran iles iles atau lainnya,
- Stok selalu tersedia karena supplier memiliki kebun Porang sendiri dan juga memiliki mitra Petani Porang di Jawa Barat, Kapasitas produksi PT Sanindo Porang Berkah di atas 20 ton per bulan."
+          "deskripsi": "Glukomanan Porang yang disuplai sesuai dengan spek yang kami butuhkan, dari bahan asli porang tanpa campuran iles iles atau lainnya, Stok selalu 	tersedia karena supplier memiliki kebun Porang sendiri dan juga memiliki mitra Petani Porang di Jawa Barat, Kapasitas produksi PT Sanindo Porang Berkah di atas 	20 ton per bulan."
         }
-"production": [
+	"production": [
         {
           "name": "Proses Produksi dari Mutiara Beras Glukomanan Porang",
           "image": "https://drive.google.com/open?id=1l3DJCq4rV95LKE_-d-UpwUsn14zJQxsk",
-          "deskripsi": "Penimbangan Bahan baku sesuai ketentuan,Perendaman dan pencucian beras,pencampuran beras dengan Glukomanan Porang,tata adonan ke tas loyang oven selanjutnya pengovenan dengan suhu sedang sampai kering, kadar air Maksimal 12%"
+          "deskripsi": "Penimbangan Bahan baku sesuai ketentuan,Perendaman dan pencucian beras,pencampuran beras dengan Glukomanan Porang,tata adonan ke tas loyang oven 	selanjutnya pengovenan dengan suhu sedang sampai kering, kadar air Maksimal 12%"
         }
-],
+	],
+	"impact": [
+        {
+          "name": "Carbon Footprint",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meminimalisir potensi jejak karbon baik secara individu/kelompok"
+        },
+		{
+          "name": "Energy Use",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Efisiensi penggunaan ragam tipe energi dan cara penghematan"
+        },
+	{
+          "name": "Resources and Raw Material",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Melakukan peninjauan pada penggunaan sumberdaya dan bahan baku hingga konversi bahan dan bersifat renewable"
+        },
+        {
+          "name": "Water Use",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meniliki upaya efisiensi penggunaan air"
+        },
+        {
+          "name": "Product Lyfecycle",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Memiliki daur hidup produk agar membantu meminimalisir kerusakan lingkungan"
+        },
+        {
+          "name": "Health and Safety",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Mengukur kadar keamanan produk dalam penggunaan, keberlanjutan bahan baku dan pemanfaatan potensi daur ulang produk"
+        },
+        {
+          "name": "Working Condition",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Menilik iklim komunikasi dalam lingkup pekerjaan dan sosial yang berkaitan dengan kesejahteraan dan kenyamanan pekerja"
+        },
+        {
+          "name": "Human Right",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meninjau pemenuhan hak-hak pekerja dalam berbagai aspek dengan berlandaskan regulasi yang berlaku hingga dimungkinkan adanya standarisasi"
+        }
+      ],
+	"contribution": [
+        1,
+	2,
+	4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
       "umkm": {
         "id": "",
         "logo": "",
@@ -567,39 +832,49 @@
 },
       "impact": [
         {
-          "name": "",
+          "name": "Carbon Footprint",
           "image": "https://i.ibb.co/0fr1VCg/image.jpg",
-          "deskripsi": ""
+          "deskripsi": "Meminimalisir potensi jejak karbon baik secara individu/kelompok"
+        },
+	{
+          "name": "Energy Use",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Efisiensi penggunaan ragam tipe energi dan cara penghematan"
         },
         {
-          "name": "",
+          "name": "Waste Management",
           "image": "https://i.ibb.co/0fr1VCg/image.jpg",
-          "deskripsi": ""
+          "deskripsi": "Melakukan tracing dalam upaya pengurangan limbah sekitar lingkungan usaha"
+        },
+	{
+          "name": "Resources and Raw Material",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Melakukan peninjauan pada penggunaan sumberdaya dan bahan baku hingga konversi bahan dan bersifat renewable"
         },
         {
-          "name": "",
+          "name": "Water Use",
           "image": "https://i.ibb.co/0fr1VCg/image.jpg",
-          "deskripsi": ""
+          "deskripsi": "Meniliki upaya efisiensi penggunaan air"
         },
         {
-          "name": "",
+          "name": "Product Lyfecycle",
           "image": "https://i.ibb.co/0fr1VCg/image.jpg",
-          "deskripsi": ""
+          "deskripsi": "Memiliki daur hidup produk agar membantu meminimalisir kerusakan lingkungan"
         },
         {
-          "name": "",
+          "name": "Health and Safety",
           "image": "https://i.ibb.co/0fr1VCg/image.jpg",
-          "deskripsi": ""
+          "deskripsi": "Mengukur kadar keamanan produk dalam penggunaan, keberlanjutan bahan baku dan pemanfaatan potensi daur ulang produk"
         },
         {
-          "name": "",
+          "name": "Working Condition",
           "image": "https://i.ibb.co/0fr1VCg/image.jpg",
-          "deskripsi": ""
+          "deskripsi": "Menilik iklim komunikasi dalam lingkup pekerjaan dan sosial yang berkaitan dengan kesejahteraan dan kenyamanan pekerja"
         },
         {
-          "name": "",
+          "name": "Human Right",
           "image": "https://i.ibb.co/0fr1VCg/image.jpg",
-          "deskripsi": ""
+          "deskripsi": "Meninjau pemenuhan hak-hak pekerja dalam berbagai aspek dengan berlandaskan regulasi yang berlaku hingga dimungkinkan adanya standarisasi"
         }
       ],
 	"contact" : [
@@ -631,39 +906,44 @@
 },
       "impact": [
         {
-          "name": "",
+          "name": "Carbon Footprint",
           "image": "https://i.ibb.co/0fr1VCg/image.jpg",
-          "deskripsi": ""
+          "deskripsi": "Meminimalisir potensi jejak karbon baik secara individu/kelompok"
+        },
+		{
+          "name": "Energy Use",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Efisiensi penggunaan ragam tipe energi dan cara penghematan"
+        },
+	{
+          "name": "Resources and Raw Material",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Melakukan peninjauan pada penggunaan sumberdaya dan bahan baku hingga konversi bahan dan bersifat renewable"
         },
         {
-          "name": "",
+          "name": "Water Use",
           "image": "https://i.ibb.co/0fr1VCg/image.jpg",
-          "deskripsi": ""
+          "deskripsi": "Meniliki upaya efisiensi penggunaan air"
         },
         {
-          "name": "",
+          "name": "Product Lyfecycle",
           "image": "https://i.ibb.co/0fr1VCg/image.jpg",
-          "deskripsi": ""
+          "deskripsi": "Memiliki daur hidup produk agar membantu meminimalisir kerusakan lingkungan"
         },
         {
-          "name": "",
+          "name": "Health and Safety",
           "image": "https://i.ibb.co/0fr1VCg/image.jpg",
-          "deskripsi": ""
+          "deskripsi": "Mengukur kadar keamanan produk dalam penggunaan, keberlanjutan bahan baku dan pemanfaatan potensi daur ulang produk"
         },
         {
-          "name": "",
+          "name": "Working Condition",
           "image": "https://i.ibb.co/0fr1VCg/image.jpg",
-          "deskripsi": ""
+          "deskripsi": "Menilik iklim komunikasi dalam lingkup pekerjaan dan sosial yang berkaitan dengan kesejahteraan dan kenyamanan pekerja"
         },
         {
-          "name": "",
+          "name": "Human Right",
           "image": "https://i.ibb.co/0fr1VCg/image.jpg",
-          "deskripsi": ""
-        },
-        {
-          "name": "",
-          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
-          "deskripsi": ""
+          "deskripsi": "Meninjau pemenuhan hak-hak pekerja dalam berbagai aspek dengan berlandaskan regulasi yang berlaku hingga dimungkinkan adanya standarisasi"
         }
       ],
 	"contact" : [
