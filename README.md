@@ -357,6 +357,86 @@
   }
 }
 ```
+5. ZAKET
+```json
+{
+  "data": {
+    "product": {
+      "name": "ZAKET",
+      "image": [
+        "https://drive.google.com/open?id=1JTMePUNF4XMWe8IW5VW5et513nESlgWB"
+      ],
+      "price": 28000,
+      "description": "Terbuat dari limbah sawit.",
+      "resources": [
+        {
+          "name": "Limbah cangkang sawit dan Linbah Tandan Kosong Kelapa Sawit",
+          "image": "https://drive.google.com/open?id=1v6KE5eUdz9pW4A1tPKeYMTsmyMrykJX4",
+          "location": {
+            "lat": "",
+            "lng": "",
+            "name": "Kabupaten Musi Banyuasin",
+          },
+          "deskripsi": "Bahan baku limbah ini sangat berlimpah dan masih menjadi pernasalahan lingkungan yang serius saat ini sehingga kami memanfaatkannya menjadi produk olahan yang memiliki nilai ekonomi yang tinggi tanpa menghasilkan limbah (ramah lingkungan)"
+        }
+"production": [
+        {
+          "name": "Limbah sebagai bahan baku di ambil dari pabrik",
+          "image": "https://drive.google.com/open?id=1cvMw6V73QS0C3woBEnjt1D5_SrSbHfji",
+          "deskripsi": "..."
+        },
+        {
+          "name": "Penimbangan",
+          "image": "https://drive.google.com/open?id=1M2RqzeQq_UVp-ZYPcacLFgg6TuusWM2k",
+          "deskripsi": "..."
+        },
+        {
+          "name": "Di keringkan",
+          "image": "https://drive.google.com/open?id=1kDIGiLvhC3KrP6zl35E4IJUYP_ZwAI-c",
+          "deskripsi": ".."
+        },
+	{
+          "name": "Karbonisasi",
+          "image": "https://drive.google.com/open?id=1gNEGCx-CyT_ClQnW14naJvDCZLq17bnj",
+          "deskripsi": ".."
+        },
+	{
+          "name": "Mixing",
+          "image": "https://drive.google.com/open?id=1e4fSetELgDvREujqvLu9usZ_4t5Ks8FU",
+          "deskripsi": ".."
+        },
+	{
+          "name": "Blending",
+          "image": "https://drive.google.com/open?id=1UoCmSscAIEboqeq_pY_4NqyWWdB4Hhjq",
+          "deskripsi": ".."
+        },
+	{
+          "name": "Pencetakan",
+          "image": "https://drive.google.com/open?id=1T03OTglH1qEvLTIJjPK0zBhOIl9O1Q4_",
+          "deskripsi": ".."
+        },
+	{
+          "name": "Pengeringan dan packing siap didistribusikan",
+          "image": "https://drive.google.com/open?id=1s82JP6fOiKR1TTIAaJJ3X6EApRDnO4mc",
+          "deskripsi": ".."
+        }
+],
+      "umkm": {
+        "id": "",
+        "logo": "",
+        "name": "Putra Alfaro Sejahtera",
+        "location": {
+          "lat": "",
+          "lng": "",
+          "name": "Jalan Beringin Kelurahan Serasan Jaya Kecamatan Sekayu Kabupaten Musi Banyuasin Sumatera Selatan 30711"
+        },
+        "employe": '...'
+      },
+      "category": 2,
+    }
+  }
+}
+```
 ## umkm
 1. Sambal Mamo
 ``` json
