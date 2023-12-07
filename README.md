@@ -562,3 +562,63 @@
 ]
 }
 ```
+3. PT Dapur Porang Prima
+``` json
+{
+      "image": "",
+      "name": "PT Dapur Porang Prima ",
+"description": "Produsen makanan dan minuman sehat berbahan campuran Glukomanan Porang, tinggi serat, rendah karbohidrat, rendah kalori dan rendah gula.",
+"location": "Jl. Gading RT 04 RW 04 Desa Growong Kidul, Juwana, Pati, Jawa Tengah",
+"history": {
+ 		"image": "https://i.ibb.co/0fr1VCg/image.jpg",
+     	 	"text": ""
+},
+      "impact": [
+        {
+          "name": "",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": ""
+        },
+        {
+          "name": "",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": ""
+        },
+        {
+          "name": "",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": ""
+        },
+        {
+          "name": "",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": ""
+        },
+        {
+          "name": "",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": ""
+        },
+        {
+          "name": "",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": ""
+        },
+        {
+          "name": "",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": ""
+        }
+      ],
+	"contact" : [
+	  {
+    "name": "whatsapp",
+          "deskripsi": "081239368427"
+        },
+        {
+    "name": "email",
+          "deskripsi": "lennymartayoseva@gmail.com"
+  }
+]
+}
+```
