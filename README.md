@@ -437,6 +437,62 @@
   }
 }
 ```
+6. Mutiara Beras Glukomanan Porang
+```json
+{
+  "data": {
+    "product": {
+      "name": "Mutiara Beras Glukomanan Porang",
+      "image": [
+        "https://drive.google.com/open?id=1Q3gMCe32iT2hBoabMJVLK7XJTDQqobUJ"
+      ],
+      "price": 135000,
+      "description": "Nasi tinggi serat, rendah karbohidrat , rendah kalori dan rendah gula (nasi sehat untuk pola hidup sehat, diet, penderita diabetes,jantung,lambung, sembelit, kanker dan autis)",
+      "resources": [
+        {
+          "name": "Beras",
+          "image": "https://drive.google.com/open?id=1LR9wM47mZY9KU8w6yCxqZymrS3xRANdH",
+          "location": {
+            "lat": "",
+            "lng": "",
+            "name": "Penyelepan sekitar lokasi usaha, berasal dari petani sekitar Juwana dan Trangkil, Pati, Jawa Tengah",
+          },
+          "deskripsi": "Memilih beras lokal ,selalu tersedia,lokasi dekat meminimalisir biaya,menghidupkan ekonomi sesama wirausaha, supplier menjamin beras sesuai dg yg spek diminta."
+        },
+	{
+          "name": "Tepung Glukomanan Porang",
+          "image": "https://drive.google.com/open?id=1qqXTLl5zNYfv9dgnwcZkrOyMm-qBUy1O",
+          "location": {
+            "lat": "",
+            "lng": "",
+            "name": "Supplier PT Sanindo Porang Berkah, Bandung, Jawa Barat",
+          },
+          "deskripsi": "Glukomanan Porang yang disuplai sesuai dengan spek yang kami butuhkan, dari bahan asli porang tanpa campuran iles iles atau lainnya,
+ Stok selalu tersedia karena supplier memiliki kebun Porang sendiri dan juga memiliki mitra Petani Porang di Jawa Barat, Kapasitas produksi PT Sanindo Porang Berkah di atas 20 ton per bulan."
+        }
+"production": [
+        {
+          "name": "Proses Produksi dari Mutiara Beras Glukomanan Porang",
+          "image": "https://drive.google.com/open?id=1l3DJCq4rV95LKE_-d-UpwUsn14zJQxsk",
+          "deskripsi": "Penimbangan Bahan baku sesuai ketentuan,Perendaman dan pencucian beras,pencampuran beras dengan Glukomanan Porang,tata adonan ke tas loyang oven selanjutnya pengovenan dengan suhu sedang sampai kering, kadar air Maksimal 12%"
+        }
+],
+      "umkm": {
+        "id": "",
+        "logo": "",
+        "name": "PT Dapur Porang Prima",
+        "location": {
+          "lat": "",
+          "lng": "",
+          "name": "Jl. Gading RT 04 RW 04 Desa Growong Kidul, Juwana, Pati, Jawa Tengah"
+        },
+        "employe": '...'
+      },
+      "category": 1,
+    }
+  }
+}
+```
 ## umkm
 1. Sambal Mamo
 ``` json
