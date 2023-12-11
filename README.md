@@ -758,6 +758,148 @@
   }
 }
 ```
+7. Nasi Jagung Instan Loyangku
+```json
+{
+  "data": {
+    "product": {
+      "name": "Nasi Jagung Instan Loyangku",
+      "image": [
+        "https://drive.google.com/file/d/1auE4DYUhpOjOSn-P_Fk7akmAHzNoCj7e"
+      ],
+      "price": 15000,
+      "description": "Nasi Jagung Instan Loyangku terbuat dari jagung pilihan dari petani jagung Banjarnegara yang diolah secara tradisioanal oleh masyarakat Desa Pucungbedug. Dipadukan dengan bumbu, sayur dan lauk yang praktis sebagai makanan instan yang sehat dan mengenyangkan. Yuk hidup sehat bersama Nasi Jagung Instan Loyangku.",
+      "resources": [
+        {
+          "name": "Jagung Hibrida",
+          "image": "https://drive.google.com/open?id=1qqXTLl5zNYfv9dgnwcZkrOyMm-qBUy1O",
+          "location": {
+            "lat": "",
+            "lng": "",
+            "name": "Petani Desa Pucungbedug dan sekitarnya",
+          },
+          "deskripsi": "Bahan baku melimpah, tinggi serat, serta kualitas bagus."
+        },
+	{
+          "name": "Sayur daun bawang dan wortel",
+          "image": "https://drive.google.com/open?id=1LR9wM47mZY9KU8w6yCxqZymrS3xRANdH",
+          "location": {
+            "lat": "",
+            "lng": "",
+            "name": "Petani sayur dari daerah Batur Banjarnegara",
+          },
+          "deskripsi": "Cocok baik warna maupun kualitasnya."
+        },
+	{
+          "name": "Bumbu rempah berkualitas premium",
+          "image": "https://drive.google.com/open?id=1qqXTLl5zNYfv9dgnwcZkrOyMm-qBUy1O",
+          "location": {
+            "lat": "",
+            "lng": "",
+            "name": "Pedagang pasar terdekat",
+          },
+          "deskripsi": "menghemat biaya angkut. Teri Nasi dari pedagang ikan asin yang mengambil dari Surabaya."
+        }
+	"production": [
+        {
+          "name": "Jagung pipil di buang kulit arinya kemudian di cuci dan direndam 5 hari dengan penggantian air setiap hari",
+          "image": "https://drive.google.com/file/d/1jM7w7YqMqE0HqbrEU5sOBDASbFAjL56S",
+          "deskripsi": ".."
+        },
+	{
+          "name": " Cuci dan tiriskan",
+          "image": "https://drive.google.com/file/d/1OLE4yti8CPeLtn_Yu6RuvM-KVrAFS3AU",
+          "deskripsi": ".."
+        },
+	{
+          "name": "Giling menjadi tepung jagung ",
+          "image": "https://drive.google.com/file/d/1wulxdKm25597x6L-QUHa50qWUrRwl6g_",
+          "deskripsi": ".."
+        },
+	{
+          "name": "Adon dan bentuk buliran",
+          "image": "https://drive.google.com/file/d/162fACYhiRbZ8Y03nqXFK6lzJo-a0xEEE",
+          "deskripsi": ".."
+        },
+	{
+          "name": "Kukus, dan keringkan",
+          "image": "https://drive.google.com/file/d/1U9pQol2FBiwGfGoeanvMARygiZiZBK4L",
+          "deskripsi": ".."
+        },
+	{
+          "name": "Sortir",
+          "image": "https://drive.google.com/file/d/1MZ1OpWeL_naZsSMlwrUnRkxdZ1gpWNSV",
+          "deskripsi": ".."
+        }
+	],
+	"impact": [
+        {
+          "name": "Carbon Footprint",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meminimalisir potensi jejak karbon baik secara individu/kelompok"
+        },
+        {
+          "name": "Waste Management",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Melakukan tracing dalam upaya pengurangan limbah sekitar lingkungan usaha"
+        },
+	{
+          "name": "Resources and Raw Material",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Melakukan peninjauan pada penggunaan sumberdaya dan bahan baku hingga konversi bahan dan bersifat renewable"
+        },
+        {
+          "name": "Water Use",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meniliki upaya efisiensi penggunaan air"
+        },
+        {
+          "name": "Product Lyfecycle",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Memiliki daur hidup produk agar membantu meminimalisir kerusakan lingkungan"
+        },
+        {
+          "name": "Health and Safety",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Mengukur kadar keamanan produk dalam penggunaan, keberlanjutan bahan baku dan pemanfaatan potensi daur ulang produk"
+        },
+        {
+          "name": "Working Condition",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Menilik iklim komunikasi dalam lingkup pekerjaan dan sosial yang berkaitan dengan kesejahteraan dan kenyamanan pekerja"
+        },
+        {
+          "name": "Human Right",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meninjau pemenuhan hak-hak pekerja dalam berbagai aspek dengan berlandaskan regulasi yang berlaku hingga dimungkinkan adanya standarisasi"
+        }
+      ],
+	"contribution": [
+        1,
+	3,
+	4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "umkm": {
+        "id": "",
+        "logo": "",
+        "name": "Gubug Eva",
+        "location": {
+          "lat": "",
+          "lng": "",
+          "name": "Pucungbedug RT 01 RW 03 Kec. Purwanegara Kab. Banjarnegara Jawa Tengah 53472"
+        },
+        "employe": '...'
+      },
+      "category": 1,
+    }
+  }
+}
+```
 ## umkm
 1. Sambal Mamo
 ``` json
