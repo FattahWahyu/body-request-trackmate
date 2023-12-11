@@ -957,3 +957,72 @@
 ]
 }
 ```
+4. Gubug Eva
+``` json
+{
+      "image": "",
+      "name": "Gubug Eva",
+"description": "Gubug Eva merupakan UMKM yang mengolah makanan berbahan dasar hasil pertanian sekitar. Dengan produk Nasi Jagung Instan Loyangku, aneka keripik sayur dan buah, nasi singkong instan dll.",
+"location": "Pucungbedug RT 01 RW 03 Kec. Purwanegara Kab. Banjarnegara Jawa Tengah 53472",
+"history": {
+ 		"image": "https://i.ibb.co/0fr1VCg/image.jpg",
+     	 	"text": ""
+},
+      "impact": [
+        {
+          "name": "Carbon Footprint",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meminimalisir potensi jejak karbon baik secara individu/kelompok"
+        },
+        {
+          "name": "Waste Management",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Melakukan tracing dalam upaya pengurangan limbah sekitar lingkungan usaha"
+        },
+	{
+          "name": "Resources and Raw Material",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Melakukan peninjauan pada penggunaan sumberdaya dan bahan baku hingga konversi bahan dan bersifat renewable"
+        },
+        {
+          "name": "Water Use",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meniliki upaya efisiensi penggunaan air"
+        },
+        {
+          "name": "Product Lyfecycle",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Memiliki daur hidup produk agar membantu meminimalisir kerusakan lingkungan"
+        },
+        {
+          "name": "Health and Safety",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Mengukur kadar keamanan produk dalam penggunaan, keberlanjutan bahan baku dan pemanfaatan potensi daur ulang produk"
+        },
+        {
+          "name": "Working Condition",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Menilik iklim komunikasi dalam lingkup pekerjaan dan sosial yang berkaitan dengan kesejahteraan dan kenyamanan pekerja"
+        },
+        {
+          "name": "Human Right",
+          "image": "https://i.ibb.co/0fr1VCg/image.jpg",
+          "deskripsi": "Meninjau pemenuhan hak-hak pekerja dalam berbagai aspek dengan berlandaskan regulasi yang berlaku hingga dimungkinkan adanya standarisasi"
+        }
+      ],
+	"contact" : [
+	  {
+    "name": "whatsapp",
+          "deskripsi": "085229908104"
+        },
+        {
+    "name": "email",
+          "deskripsi": "gubugeva@gmail.com"
+  },
+	{
+    "name": "web",
+          "deskripsi": "https://gubugeva.my.id/mylink"
+  }
+]
+}
+```
