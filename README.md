@@ -438,7 +438,7 @@
         },
         {
           "name": "Perebusan",
-          "image": "https://drive.google.com/open?id=1UamU34g6K9DR0qYYDooY3ZJVzxrDRFCT",
+          "image": "",
           "deskripsi": ".."
         },
 	{
@@ -453,7 +453,7 @@
         },
 	{
           "name": "Pengemasan",
-          "image": "",
+          "image": "https://drive.google.com/file/d/1UamU34g6K9DR0qYYDooY3ZJVzxrDRFCT",
           "deskripsi": ".."
         }
 	],
@@ -461,7 +461,7 @@
         {
           "name": "Carbon Footprint",
           "image": "https://i.ibb.co/0fr1VCg/image.jpg",
-          "deskripsi": "Meminimalisir potensi jejak karbon baik secara 		individu/kelompok"
+          "deskripsi": "Meminimalisir potensi jejak karbon baik secara individu/kelompok"
         },
         {
           "name": "Water Use",
@@ -537,43 +537,43 @@
         }
 	"production": [
         {
-          "name": "Limbah sebagai bahan baku di ambil dari pabrik",
+          "name": "Limbah sebagainbahan baku di ambil dari pabrik, selanjutnya dliakukan penimbangan, dan di keringkan",
           "image": "https://drive.google.com/open?id=1cvMw6V73QS0C3woBEnjt1D5_SrSbHfji",
           "deskripsi": "..."
         },
         {
-          "name": "Penimbangan",
+          "name": "Karbonisasi",
           "image": "https://drive.google.com/open?id=1M2RqzeQq_UVp-ZYPcacLFgg6TuusWM2k",
           "deskripsi": "..."
         },
         {
-          "name": "Di keringkan",
+          "name": "Mixing",
           "image": "https://drive.google.com/open?id=1kDIGiLvhC3KrP6zl35E4IJUYP_ZwAI-c",
           "deskripsi": ".."
         },
 	{
-          "name": "Karbonisasi",
+          "name": "Blending",
           "image": "https://drive.google.com/open?id=1gNEGCx-CyT_ClQnW14naJvDCZLq17bnj",
           "deskripsi": ".."
         },
 	{
-          "name": "Mixing",
+          "name": "Pencetakan",
           "image": "https://drive.google.com/open?id=1e4fSetELgDvREujqvLu9usZ_4t5Ks8FU",
           "deskripsi": ".."
         },
 	{
-          "name": "Blending",
-          "image": "https://drive.google.com/open?id=1UoCmSscAIEboqeq_pY_4NqyWWdB4Hhjq",
-          "deskripsi": ".."
-        },
-	{
-          "name": "Pencetakan",
+          "name": "Pengeringan",
           "image": "https://drive.google.com/open?id=1T03OTglH1qEvLTIJjPK0zBhOIl9O1Q4_",
           "deskripsi": ".."
         },
 	{
-          "name": "Pengeringan dan packing siap didistribusikan",
-          "image": "https://drive.google.com/open?id=1s82JP6fOiKR1TTIAaJJ3X6EApRDnO4mc",
+          "name": "Packing",
+          "image": "https://drive.google.com/file/d/1s82JP6fOiKR1TTIAaJJ3X6EApRDnO4mc",
+          "deskripsi": ".."
+        },
+	{
+          "name": "Siap didistribusikan",
+          "image": "https://drive.google.com/file/d/1UoCmSscAIEboqeq_pY_4NqyWWdB4Hhjq",
           "deskripsi": ".."
         }
 	],
@@ -665,7 +665,7 @@
       "resources": [
         {
           "name": "Beras",
-          "image": "https://drive.google.com/open?id=1LR9wM47mZY9KU8w6yCxqZymrS3xRANdH",
+          "image": "https://drive.google.com/open?id=1qqXTLl5zNYfv9dgnwcZkrOyMm-qBUy1O",
           "location": {
             "lat": "",
             "lng": "",
@@ -675,7 +675,7 @@
         },
 	{
           "name": "Tepung Glukomanan Porang",
-          "image": "https://drive.google.com/open?id=1qqXTLl5zNYfv9dgnwcZkrOyMm-qBUy1O",
+          "image": "https://drive.google.com/open?id=1LR9wM47mZY9KU8w6yCxqZymrS3xRANdH",
           "location": {
             "lat": "",
             "lng": "",
