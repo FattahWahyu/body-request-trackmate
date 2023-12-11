@@ -893,13 +893,12 @@
 ]
 }
 ```
-3. PT Dapur Porang Prima
+3. Lenny Marta Yoseva
 ``` json
 {
       "image": "",
-      "name": "PT Dapur Porang Prima ",
-"description": "Produsen makanan dan minuman sehat berbahan campuran Glukomanan Porang, tinggi serat, rendah karbohidrat, rendah kalori dan rendah gula.",
-"location": "Jl. Gading RT 04 RW 04 Desa Growong Kidul, Juwana, Pati, Jawa Tengah",
+      "name": "Lenny Marta Yoseva",
+"description": "Produsen Makanan dan Minuman Sehat berbahan campuran Glukomanan Porang ,Tinggi serat, rendah karbohidrat, rendah kalori dan rendah gula.",
 "history": {
  		"image": "https://i.ibb.co/0fr1VCg/image.jpg",
      	 	"text": ""
