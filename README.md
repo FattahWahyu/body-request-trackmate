@@ -782,7 +782,7 @@
         },
 	{
           "name": "Sayur daun bawang dan wortel",
-          "image": "https://drive.google.com/open?id=1LR9wM47mZY9KU8w6yCxqZymrS3xRANdH",
+          "image": "https://drive.google.com/file/d/1Tu5f8cuxe5P9pKoJ3XGwMywY30XVg-AV",
           "location": {
             "lat": "",
             "lng": "",
