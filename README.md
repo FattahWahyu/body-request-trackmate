@@ -745,7 +745,7 @@
       "umkm": {
         "id": "",
         "logo": "",
-        "name": "PT Dapur Porang Prima",
+        "name": "Lenny Marta Yoseva",
         "location": {
           "lat": "",
           "lng": "",
