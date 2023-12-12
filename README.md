@@ -772,7 +772,7 @@
       "resources": [
         {
           "name": "Jagung Hibrida",
-          "image": "https://drive.google.com/open?id=1qqXTLl5zNYfv9dgnwcZkrOyMm-qBUy1O",
+          "image": "https://drive.google.com/file/d/1jva3AxxLp8nX_WRIEHysFyGl0WjE0u0G",
           "location": {
             "lat": "",
             "lng": "",
